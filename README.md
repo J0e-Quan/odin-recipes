@@ -1,5 +1,5 @@
 # odin-recipes
-This is a simple HTML-only website project based on The Odin Project curriculun.
+This is a simple HTML-only website project based on The Odin Project curriculun. (CSS was added after learning it in The Odin Project.)
 
 It contains:
  - main index page
