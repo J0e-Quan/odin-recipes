@@ -1,17 +1,43 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/InterVariable.woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/InterVariable-Italic.woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: italic;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url(./fonts/Outfit[wght].woff2)
+    format('woff2-variations');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: block;
+}
+
 h1 {
-    font-family:'Segoe UI', sans-serif;
+    font-family:'Inter', sans-serif;
     color: white;
     text-align: center;
     font-size: 50px;
-    font-weight: bold;
+    font-weight: 200;
     background-color: blueviolet;
     padding: 15px;
     margin: 0px
 }
 
 * {
-    font-family: "Segoe UI", sans-serif;
-    font-weight: lighter;
+    font-family: "Outfit", sans-serif;
 }
 
 body {
@@ -31,7 +57,8 @@ h2 {
 }
 
 h3 {
-    font-family: serif;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
 }
 
 a {
