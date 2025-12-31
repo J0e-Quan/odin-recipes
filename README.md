@@ -11,7 +11,7 @@ Live demo link: https://j0e-quan.github.io/odin-recipes/
 ## Key features:
  - Main index page contains links to several recipe pages
  - Recipe pages contain images and links back to the index page
- - All pages are styled with CSS and use web fonts (Inter for headings, Outfit for body text)
+ - All pages are styled with CSS and use web fonts (Inter for headings, Urbanist for body text)
  - Pages are scaled appropriately on mobile (except for images)
 
 ## Credits:
